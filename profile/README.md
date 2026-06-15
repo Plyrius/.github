@@ -44,4 +44,4 @@ Open an issue or a pull request in any repository — contributions are welcome.
 
 ---
 
-*Built by [@gaspr](https://github.com/itsgaspr) · Maputo, Mozambique*
+*Built by [Gaspar](https://github.com/itsgaspr) · Maputo, Mozambique*
